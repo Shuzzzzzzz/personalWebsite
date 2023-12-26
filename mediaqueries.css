@@ -1,0 +1,21 @@
+@media screen and (max-width: 1200px) {
+    #desktop-nav {
+        display: none;
+      }
+      #hamburger-nav {
+        display: flex;
+      }
+
+}
+
+/* @media (max-width: 768px) {
+  .project-box {
+    width: calc(50% - 10px); 
+  }
+}
+
+@media (max-width: 480px) {
+  .project-box {
+    width: 100%; 
+  }
+} */
